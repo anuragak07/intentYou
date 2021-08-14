@@ -1,0 +1,2 @@
+rootProject.name = "Intentyou"
+include ':app'
